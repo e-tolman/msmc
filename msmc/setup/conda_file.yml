@@ -1,0 +1,11 @@
+name: msmc
+channels:
+  - defaults
+dependencies:
+  - samtools
+  - bwa
+  - bcftools
+  - bedtools
+  - pandas
+  - matplotlib
+prefix: #PATH TO YOUR ENVIRONMENT
